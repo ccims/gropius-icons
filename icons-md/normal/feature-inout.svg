@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>issues/feature-inout</title>
+    <g id="issues/feature-inout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16,4 C18.8272411,4 21.3499999,5.30364391 22.9999563,7.34261164 L22.9999563,18.6573884 C21.3499999,20.6963561 18.8272411,22 16,22 C12.379379,22 9.25810508,19.8620408 7.82976415,16.7797082 L9.49479249,15.5900561 C10.5244554,18.1739028 13.0489738,20 16,20 C19.8659932,20 23,16.8659932 23,13 C23,9.13400675 19.8659932,6 16,6 C12.4396515,6 9.50012333,8.65804765 9.05757994,12.0979784 L7.26607989,10.8189712 C8.24098341,6.90226218 11.7815619,4 16,4 Z" id="bulb" fill="#00BA39" fill-rule="nonzero"></path>
+        <rect id="screw1" fill="#00BA39" x="13" y="23" width="6" height="2"></rect>
+        <rect id="screw2" fill="#00BA39" x="13" y="26" width="6" height="2"></rect>
+        <polygon id="arrow-in" fill="#00C6EB" points="3 9 3 19 10 14"></polygon>
+        <polygon id="arrow-out" fill="#FF0065" points="24 9 24 19 31 14"></polygon>
+    </g>
+</svg>
