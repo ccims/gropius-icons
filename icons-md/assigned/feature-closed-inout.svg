@@ -7,7 +7,7 @@
             <rect id="screw1" fill="#FF0036" x="13" y="23" width="6" height="2"></rect>
             <rect id="screw2" fill="#FF0036" x="13" y="26" width="6" height="2"></rect>
             <polygon id="arrow-in" fill="#00C6EB" points="3 9 3 19 10 14"></polygon>
-            <polygon id="arrow-out" fill="#FF0065" points="24 9 24 19 31 14"></polygon>
+            <polygon id="arrow-out" fill="#FF8900" points="24 9 24 19 31 14"></polygon>
         </g>
         <g id="Star" fill="#F0AF00">
             <polygon transform="translate(25.000000, 25.000000) rotate(16.000000) translate(-25.000000, -25.000000) " points="25 28.5 20.8855032 30.663119 21.6713022 26.0815595 18.3426044 22.836881 22.9427516 22.1684405 25 18 27.0572484 22.1684405 31.6573956 22.836881 28.3286978 26.0815595 29.1144968 30.663119"></polygon>

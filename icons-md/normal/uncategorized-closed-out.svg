@@ -3,6 +3,6 @@
     <title>issues/uncategorized-closed-out</title>
     <g id="issues/uncategorized-closed-out" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <path d="M16,5 C19.8023089,5 23.1540283,6.92920285 25.1297225,9.86217275 L24,9.05681068 L24,22.9431893 L25.1297225,22.1378273 C23.1540283,25.0707972 19.8023089,27 16,27 C9.92486775,27 5,22.0751322 5,16 C5,9.92486775 9.92486775,5 16,5 Z M21.59,10.58 L14,18.17 L10.41,14.59 L9,16 L14,21 L23,12 L21.59,10.58 Z" id="check" fill="#FF0036" fill-rule="nonzero"></path>
-        <polygon id="arrow-out" fill="#FF0065" points="25 11 25 21 32 16"></polygon>
+        <polygon id="arrow-out" fill="#FF8900" points="25 11 25 21 32 16"></polygon>
     </g>
 </svg>
