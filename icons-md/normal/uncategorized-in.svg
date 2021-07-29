@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>issues/uncategorized-in</title>
+    <g id="issues/uncategorized-in" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16,5 C22.0751322,5 27,9.92486775 27,16 C27,22.0751322 22.0751322,27 16,27 C11.2023873,27 7.12213363,23.9286205 5.61824031,19.6448627 L7.32987983,18.4228534 C8.38780354,22.2166077 11.8688537,25 16,25 C20.9705627,25 25,20.9705627 25,16 C25,11.0294373 20.9705627,7 16,7 C11.8684914,7 8.38719299,9.78388052 7.32960156,13.5781447 L5.61824031,12.3551373 C7.12213363,8.07137948 11.2023873,5 16,5 Z" id="ring" fill="#00BA39" fill-rule="nonzero"></path>
+        <rect id="exclam" fill="#00BA39" x="15" y="10" width="2" height="8"></rect>
+        <rect id="dot" fill="#00BA39" x="15" y="20" width="2" height="2"></rect>
+        <polygon id="arrow-in" fill="#00C6EB" points="2 11 2 21 9 16"></polygon>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>assigned/feature-closed</title>
+    <g id="assigned/feature-closed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill="#FF0036">
+            <path d="M16,4 C20.9705627,4 25,8.02943725 25,13 C25,17.9705627 20.9705627,22 16,22 C11.0294373,22 7,17.9705627 7,13 C7,8.02943725 11.0294373,4 16,4 Z M20.2917466,9 L14.4644914,14.8272553 L11.7082534,12.0786948 L10.6257198,13.1612284 L14.4644914,17 L21.3742802,10.0902111 L20.2917466,9 Z" id="bulb-check"></path>
+            <rect id="screw1" x="13" y="23" width="6" height="2"></rect>
+            <rect id="screw2" x="13" y="26" width="6" height="2"></rect>
+        </g>
+        <g id="Star" fill="#F0AF00">
+            <polygon transform="translate(25.000000, 25.000000) rotate(16.000000) translate(-25.000000, -25.000000) " points="25 28.5 20.8855032 30.663119 21.6713022 26.0815595 18.3426044 22.836881 22.9427516 22.1684405 25 18 27.0572484 22.1684405 31.6573956 22.836881 28.3286978 26.0815595 29.1144968 30.663119"></polygon>
+        </g>
+    </g>
+</svg>

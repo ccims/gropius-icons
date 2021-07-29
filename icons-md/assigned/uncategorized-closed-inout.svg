@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>assigned/uncategorized-closed-inout</title>
+    <g id="assigned/uncategorized-closed-inout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <path d="M16,5 C19.8031738,5 23.155553,6.93008056 25.1310705,9.86417425 L24,9.05681068 L24,22.9431893 L25.1303965,22.1368265 C23.1547907,25.0703583 19.8027413,27 16,27 C11.2023873,27 7.12213363,23.9286205 5.61824031,19.6448627 L10.0082403,16.508 L14.5,21 L23.5,12 L22.09,10.58 L14.5,18.17 L10.91,14.59 L10.0072403,15.491 L5.61824031,12.3551373 C7.12213363,8.07137948 11.2023873,5 16,5 Z" id="check" fill="#FF0036" fill-rule="nonzero"></path>
+            <polygon id="arrow-in" fill="#00C6EB" points="2 11 2 21 9 16"></polygon>
+            <polygon id="arrow-out" fill="#FF0065" points="25 11 25 21 32 16"></polygon>
+        </g>
+        <g id="Star" fill="#F0AF00">
+            <polygon transform="translate(25.000000, 25.000000) rotate(16.000000) translate(-25.000000, -25.000000) " points="25 28.5 20.8855032 30.663119 21.6713022 26.0815595 18.3426044 22.836881 22.9427516 22.1684405 25 18 27.0572484 22.1684405 31.6573956 22.836881 28.3286978 26.0815595 29.1144968 30.663119"></polygon>
+        </g>
+    </g>
+</svg>

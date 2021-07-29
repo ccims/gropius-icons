@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>issues/uncategorized-closed-in</title>
+    <g id="issues/uncategorized-closed-in" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16,5 C22.0751322,5 27,9.92486775 27,16 C27,22.0751322 22.0751322,27 16,27 C11.2023873,27 7.12213363,23.9286205 5.61824031,19.6448627 L10.0082403,16.508 L14.5,21 L23.5,12 L22.09,10.58 L14.5,18.17 L10.91,14.59 L10.0072403,15.491 L5.61824031,12.3551373 C7.12213363,8.07137948 11.2023873,5 16,5 Z" id="check" fill="#FF0036" fill-rule="nonzero"></path>
+        <polygon id="arrow-in" fill="#00C6EB" points="2 11 2 21 9 16"></polygon>
+    </g>
+</svg>

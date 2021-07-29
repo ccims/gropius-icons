@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>assigned/uncategorized-closed</title>
+    <g id="assigned/uncategorized-closed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="check" fill="#FF0036">
+            <path d="M16,5 C22.0751322,5 27,9.92486775 27,16 C27,22.0751322 22.0751322,27 16,27 C9.92486775,27 5,22.0751322 5,16 C5,9.92486775 9.92486775,5 16,5 Z M21.59,10.58 L14,18.17 L10.41,14.59 L9,16 L14,21 L23,12 L21.59,10.58 Z"></path>
+        </g>
+        <g id="Star" fill="#F0AF00">
+            <polygon transform="translate(25.000000, 25.000000) rotate(16.000000) translate(-25.000000, -25.000000) " points="25 28.5 20.8855032 30.663119 21.6713022 26.0815595 18.3426044 22.836881 22.9427516 22.1684405 25 18 27.0572484 22.1684405 31.6573956 22.836881 28.3286978 26.0815595 29.1144968 30.663119"></polygon>
+        </g>
+    </g>
+</svg>
